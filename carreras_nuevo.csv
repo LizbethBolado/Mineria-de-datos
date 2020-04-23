@@ -1,0 +1,51 @@
+,Carrera,Salario al inicio,Salario a la mitad,Salario al graduarse,Mejor Universidad
+0,Accounting,46000.0,77100.0,152000.0,State University of New York (SUNY) at Oneonta
+1,Aerospace Engineering,57700.0,101000.0,161000.0,Embry-Riddle Aeronautical University (ERAU)
+2,Agriculture,42600.0,71900.0,150000.0,University of Hawaii
+3,Anthropology,36800.0,61500.0,138000.0,Dartmouth College
+4,Architecture,41600.0,76800.0,136000.0,University of Richmond
+5,Art History,35800.0,64900.0,125000.0,Ursinus College
+6,Biology,38800.0,64800.0,135000.0,Princeton University
+7,Business Management,43000.0,72100.0,147000.0,University of Tennessee
+8,Chemical Engineering,63200.0,107000.0,194000.0,California Institute of Technology (CIT)
+9,Chemistry,42600.0,79900.0,148000.0,Yale University
+10,Civil Engineering,53900.0,90500.0,148000.0,Colorado School of Mines
+11,Communications,38100.0,70000.0,143000.0,University of North Carolina at Charlotte (UNCC)
+12,Computer Engineering,61400.0,105000.0,162000.0,Massachusetts Institute of Technology (MIT)
+13,Computer Science,55900.0,95500.0,154000.0,Stevens Institute of Technology
+14,Construction,53700.0,88900.0,171000.0,Cooper Union
+15,Criminal Justice,35000.0,56300.0,107000.0,Cal Poly San Luis Obispo
+16,Drama,35900.0,56900.0,153000.0,"Wesleyan University (Middletown, Connecticut)"
+17,Economics,50100.0,98600.0,210000.0,Harvard University
+18,Education,34900.0,52000.0,102000.0,Western Michigan University (WMU)
+19,Electrical Engineering,60900.0,103000.0,168000.0,Illinois Institute of Technology (IIT)
+20,English,38000.0,64700.0,133000.0,"University of California, Davis"
+21,Film,37900.0,68500.0,136000.0,Colby College
+22,Finance,47900.0,88300.0,195000.0,Cornell University
+23,Forestry,39100.0,62600.0,111000.0,Idaho State University
+24,Geography,41200.0,65500.0,132000.0,Brown University
+25,Geology,43500.0,79500.0,156000.0,Columbia University
+26,Graphic Design,35700.0,59800.0,112000.0,Fitchburg State College
+27,Health Care Administration,38800.0,60600.0,101000.0,University Of Maine
+28,History,39200.0,71000.0,149000.0,University of Montana
+29,Hospitality & Tourism,37800.0,57500.0,124000.0,University of South Carolina
+30,Industrial Engineering,57700.0,94700.0,173000.0,Carnegie Mellon University (CMU)
+31,Information Technology (IT),49100.0,74800.0,129000.0,New Mexico Institute of Mining and Technology (New Mexico Tech)
+32,Interior Design,36100.0,53200.0,107000.0,Whitman College
+33,International Relations,40900.0,80900.0,157000.0,St. Cloud State University
+34,Journalism,35600.0,66700.0,145000.0,Florida Atlantic University (FAU)
+35,Management Information Systems (MIS),49200.0,82300.0,146000.0,University of Akron
+36,Marketing,40800.0,79600.0,175000.0,University of Wisconsin (UW) - La Crosse
+37,Math,45400.0,92400.0,183000.0,Dartmouth College
+38,Mechanical Engineering,57900.0,93600.0,163000.0,Rochester Institute of Technology (RIT)
+39,Music,35900.0,55000.0,134000.0,Evergreen State College
+40,Nursing,54200.0,67000.0,98300.0,Princeton University
+41,Nutrition,39900.0,55300.0,99200.0,East Carolina University (ECU)
+42,Philosophy,39900.0,81200.0,168000.0,University of Missouri - St. Louis (UMSL)
+43,Physician Assistant,74300.0,91700.0,124000.0,Yale University
+44,Physics,50300.0,97300.0,178000.0,Harvard University
+45,Political Science,40800.0,78200.0,168000.0,University of Pennsylvania
+46,Psychology,35900.0,60400.0,127000.0,State University of New York (SUNY) at Fredonia
+47,Religion,34100.0,52000.0,96400.0,University of North Carolina at Wilmington (UNCW)
+48,Sociology,36500.0,58200.0,118000.0,Tarleton State University (TSU)
+49,Spanish,34000.0,53100.0,96400.0,Montana State University - Billings
